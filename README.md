@@ -1,4 +1,4 @@
-#Static routes - CPT
+# Static routes - CPT
 
 Learn about how routers can communicate with each other like a switch and how to connect 2 completely different networks togeather this is useful as multiple businesses need to be connected to the same system if they do not use a VPN
 ## Topology
