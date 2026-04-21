@@ -1,6 +1,6 @@
 # IMPORTANT
 
-## This is an outdated Version of my work please head to the updated version via this link: 
+## This is an outdated Version of my work please head to the updated version via this link: https://github.com/0hYena/Static-Route-CPT-APRIL2026
 
 # Static routes - CPT
 
